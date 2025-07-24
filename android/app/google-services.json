@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415411570292",
+    "project_id": "cashbook-8aebd",
+    "storage_bucket": "cashbook-8aebd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415411570292:android:db27c54366276d9f6e3321",
+        "android_client_info": {
+          "package_name": "com.example.cashbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqegDsWzzZrgWQ6uR0DfvHRv_nIlkw4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415411570292:android:2b526569d778ce426e3321",
+        "android_client_info": {
+          "package_name": "com.qbmohammed.cashbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqegDsWzzZrgWQ6uR0DfvHRv_nIlkw4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
